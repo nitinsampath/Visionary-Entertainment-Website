@@ -1,3 +1,8 @@
 .nav-item {
     padding-right: 20px;
 }
+
+.card-header {
+    height: 70px;
+    color: aliceblue;
+}
